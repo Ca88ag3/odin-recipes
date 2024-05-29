@@ -1,0 +1,28 @@
+* {
+    background-color: aquamarine;
+}
+
+h1 {
+    background-color: whitesmoke;
+    color: blueviolet;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+p {
+    font-family: Tahoma, Georgia, "Times New Roman";
+    font-size: 18px;
+    color: black;
+}
+
+li {
+    color: purple;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#click {
+    color: purple;
+    background-color: whitesmoke;
+}
